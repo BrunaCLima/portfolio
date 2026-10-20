@@ -1,0 +1,42 @@
+# Portfólio de projetos
+
+Ferramentas que desenvolvi para automatizar tarefas repetitivas em três áreas diferentes: engenharia elétrica,
+projetos BIM e escritórios de advocacia. Cada uma nasceu de um problema real de quem usa, tem instalador
+próprio e guia de uso, e roda no computador do usuário, sem depender de serviços externos.
+
+> O código-fonte de cada projeto fica em repositório privado. Este repositório reúne a descrição, as telas e
+> os vídeos de demonstração. O código pode ser apresentado mediante solicitação.
+
+| | Projeto | O que faz | Tecnologias |
+|---|---|---|---|
+| ⚡ | **[Fasor](fasor/)** | Estudo de proteção e seletividade em média tensão, do curto-circuito ao memorial de cálculo | Python, pywebview, JavaScript, SQLite FTS5 |
+| 🏗️ | **[FuroMEP](furomep/)** | Plug-in do Revit que detecta onde as instalações cruzam a estrutura e cria os furos | C#, .NET 8/10, WPF, Revit API |
+| ⚖️ | **[JurisDocs](jurisdocs/)** | Editor de peças jurídicas que formata o texto colado no padrão do escritório | Python, Flask, SQLite, python-docx |
+
+## Fasor
+
+[![Vídeo de demonstração do Fasor](fasor/imagens/video-capa.jpg)](videos/fasor-demonstracao.mp4)
+
+Aplicativo desktop para Windows. Recebe a carta de curto-circuito da concessionária, os transformadores e a
+demanda, calcula as correntes de curto, sugere os ajustes do relé, desenha o coordenograma e o unifilar,
+confere cerca de 20 critérios e gera o memorial de cálculo em Word. → [Detalhes](fasor/)
+
+## FuroMEP
+
+[![Vídeo de demonstração do FuroMEP](furomep/imagens/video-capa.jpg)](videos/furomep-demonstracao.mp4)
+
+Plug-in para Revit 2025, 2026 e 2027. Compara tubos, dutos, eletrodutos e caixas com vigas, lajes, paredes,
+pilares e fundações (no arquivo e em vínculos), dimensiona cada furo, alerta pelas condições da NBR 6118 e
+cria os furos como famílias editáveis com etiqueta automática. → [Detalhes](furomep/)
+
+## JurisDocs
+
+![Editor do JurisDocs com a prévia do documento formatado](jurisdocs/imagens/documento.png)
+
+Sistema local para escritórios de advocacia. O escritório envia uma vez o seu documento modelo (.docx) e,
+a partir daí, o texto cru colado é reconhecido parte a parte (endereçamento, qualificação, título, tópicos,
+citações, fecho, assinatura) e sai em Word e PDF com o padrão exato do escritório. → [Detalhes](jurisdocs/)
+
+---
+
+<sub>Todas as telas usam dados de exemplo.</sub>
