@@ -1,7 +1,7 @@
 # Portfólio de projetos
 
-Ferramentas que desenvolvi para automatizar tarefas repetitivas em três áreas diferentes: engenharia elétrica,
-projetos BIM e escritórios de advocacia. Cada uma nasceu de um problema real de quem usa, tem instalador
+Ferramentas que desenvolvi para automatizar tarefas repetitivas em quatro áreas diferentes: engenharia elétrica,
+projetos BIM, escritórios de advocacia e aulas particulares. Cada uma nasceu de um problema real de quem usa, tem instalador
 próprio e guia de uso, e roda no computador do usuário, sem depender de serviços externos.
 
 > O código-fonte de cada projeto fica em repositório privado. Este repositório reúne a descrição, as telas e
@@ -12,6 +12,7 @@ próprio e guia de uso, e roda no computador do usuário, sem depender de servi�
 | ⚡ | **[Fasor](fasor/)** | Estudo de proteção e seletividade em média tensão, do curto-circuito ao memorial de cálculo | Python, pywebview, JavaScript, SQLite FTS5 |
 | 🏗️ | **[FuroMEP](furomep/)** | Plug-in do Revit que detecta onde as instalações cruzam a estrutura e cria os furos | C#, .NET 8/10, WPF, Revit API |
 | ⚖️ | **[JurisDocs](jurisdocs/)** | Editor de peças jurídicas que formata o texto colado no padrão do escritório | Python, Flask, SQLite, python-docx |
+| 🍎 | **[Lousa](lousa/)** | Gestão de aulas particulares: perfil do aluno, agenda, planos, atividades e correção, com IA opcional | Python, Flask, SQLite, IA (Gemini, Ollama, Claude) |
 
 ## Fasor
 
@@ -36,6 +37,15 @@ cria os furos como famílias editáveis com etiqueta automática. → [Detalhes]
 Sistema local para escritórios de advocacia. O escritório envia uma vez o seu documento modelo (.docx) e,
 a partir daí, o texto cru colado é reconhecido parte a parte (endereçamento, qualificação, título, tópicos,
 citações, fecho, assinatura) e sai em Word e PDF com o padrão exato do escritório. → [Detalhes](jurisdocs/)
+
+## Lousa
+
+![Ficha do aluno na Lousa](lousa/imagens/aluno.png)
+
+Sistema local para professores particulares. Reúne o perfil pedagógico e a evolução de cada aluno, a agenda,
+o registro das aulas, planos de aula e atividades com correção automática e devolutiva, com saída em PDF e
+Word. A IA é opcional (Gemini e Ollama gratuitos, ou Claude) e também é possível colar respostas do ChatGPT,
+Claude ou Gemini, que viram plano ou questões. → [Detalhes](lousa/)
 
 ---
 
