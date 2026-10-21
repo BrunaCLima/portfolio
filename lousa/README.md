@@ -2,7 +2,7 @@
 
 **A aula particular organizada em um só lugar: do perfil do aluno à correção da atividade**
 
-![Tela inicial da Lousa](imagens/inicio.png)
+[![Vídeo de demonstração](imagens/video-capa.jpg)](../videos/lousa-demonstracao.mp4)
 
 ## O problema
 

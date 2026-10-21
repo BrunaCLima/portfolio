@@ -40,7 +40,7 @@ citações, fecho, assinatura) e sai em Word e PDF com o padrão exato do escrit
 
 ## Lousa
 
-![Ficha do aluno na Lousa](lousa/imagens/aluno.png)
+[![Vídeo de demonstração da Lousa](lousa/imagens/video-capa.jpg)](videos/lousa-demonstracao.mp4)
 
 Sistema local para professores particulares. Reúne o perfil pedagógico e a evolução de cada aluno, a agenda,
 o registro das aulas, planos de aula e atividades com correção automática e devolutiva, com saída em PDF e
