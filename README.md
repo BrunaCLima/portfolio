@@ -2,7 +2,7 @@
 
 Ferramentas que desenvolvi para automatizar tarefas repetitivas em quatro áreas diferentes: engenharia elétrica,
 projetos BIM, escritórios de advocacia e aulas particulares. Cada uma nasceu de um problema real de quem usa, tem instalador
-próprio e guia de uso, e roda no computador do usuário, sem depender de serviços externos.
+próprio e guia de uso, e roda no computador do usuário, sem depender de serviços externos. Fecha a lista um projeto pessoal: um jogo.
 
 > O código-fonte de cada projeto fica em repositório privado. Este repositório reúne a descrição, as telas e
 > os vídeos de demonstração. O código pode ser apresentado mediante solicitação.
@@ -13,6 +13,7 @@ próprio e guia de uso, e roda no computador do usuário, sem depender de servi�
 | 🏗️ | **[FuroMEP](furomep/)** | Plug-in do Revit que detecta onde as instalações cruzam a estrutura e cria os furos | C#, .NET 8/10, WPF, Revit API |
 | ⚖️ | **[JurisDocs](jurisdocs/)** | Editor de peças jurídicas que formata o texto colado no padrão do escritório | Python, Flask, SQLite, python-docx |
 | 🍎 | **[Lousa](lousa/)** | Gestão de aulas particulares: perfil do aluno, agenda, planos, atividades e correção, com IA opcional | Python, Flask, SQLite, IA (Gemini, Ollama, Claude) |
+| 🐱 | **[Jump Ellie](jump-ellie/)** | Jogo de corrida infinita com uma gatinha fugindo de pepinos alienígenas, em visual de fliperama | JavaScript, Canvas, Web Audio, Python, pywebview |
 
 ## Fasor
 
@@ -46,6 +47,15 @@ Sistema local para professores particulares. Reúne o perfil pedagógico e a evo
 o registro das aulas, planos de aula e atividades com correção automática e devolutiva, com saída em PDF e
 Word. A IA é opcional (Gemini e Ollama gratuitos, ou Claude) e também é possível colar respostas do ChatGPT,
 Claude ou Gemini, que viram plano ou questões. → [Detalhes](lousa/)
+
+## Jump Ellie
+
+![Jump Ellie: a gatinha Ellie e o aviso de evolução dos pepinos alienígenas](jump-ellie/imagens/evolucao.png)
+
+Projeto pessoal: o jogo do dinossauro do Chrome com visual de fliperama à moda do Pac-Man. A gatinha Ellie corre
+pelos telhados fugindo de pepinos alienígenas que evoluem com a pontuação, a erva-de-gato faz o papel da pílula
+de poder e, na derrota, um disco voador a abduz. Pixel art e trilha chiptune feitas no próprio código, e
+instalador para Windows. → [Detalhes](jump-ellie/)
 
 ---
 
