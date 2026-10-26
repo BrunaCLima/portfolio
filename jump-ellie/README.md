@@ -6,7 +6,7 @@
 
 ## A ideia
 
-Um projeto pessoal: o jogo do dinossauro do Chrome, mas com a Ellie, uma gatinha tricolor de laço e coleira rosa,
+Um projeto pessoal: um jogo de corrida infinita com a Ellie, uma gatinha tricolor de laço e coleira rosa,
 correndo pelos telhados da cidade à noite. O visual é de fliperama retrô, com neon azul, pixel art e letras
 de arcade, e a erva-de-gato dá poderes à Ellie. O jogo é todo em inglês e instala no Windows como
 qualquer outro aplicativo.
