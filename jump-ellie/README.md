@@ -7,8 +7,8 @@
 ## A ideia
 
 Um projeto pessoal: o jogo do dinossauro do Chrome, mas com a Ellie, uma gatinha tricolor de laço e coleira rosa,
-correndo pelos telhados da cidade à noite. O visual é de fliperama à moda do Pac-Man, com os labirintos azuis,
-os pontinhos e a erva-de-gato no papel da pílula de poder. O jogo é todo em inglês e instala no Windows como
+correndo pelos telhados da cidade à noite. O visual é de fliperama retrô, com neon azul, pixel art e letras
+de arcade, e a erva-de-gato dá poderes à Ellie. O jogo é todo em inglês e instala no Windows como
 qualquer outro aplicativo.
 
 ## Como se joga
@@ -17,7 +17,7 @@ qualquer outro aplicativo.
 |---|---|
 | Controles | `Espaço` ou `↑` pula, `↓` abaixa, `Esc` ou `P` abre o menu de pausa, `M` liga o som; na tela de toque, basta tocar |
 | Pontos | Pontinhos valem 10 e peixinhos valem 50; o recorde fica salvo no computador |
-| Poder | A erva-de-gato deixa a Ellie brilhando por alguns segundos: ela esmaga os pepinos no chão e come os voadores, que valem 200, 400, 800 e 1600 em sequência, como os fantasmas do Pac-Man |
+| Poder | A erva-de-gato deixa a Ellie brilhando por alguns segundos: ela esmaga os pepinos no chão e come os voadores, que valem 200, 400, 800 e 1600 em sequência |
 | Vilões | Pepinos alienígenas que evoluem com a pontuação: SPROUT, STALKER (400), HOVERCUKE (1200), ZAPWING (2500) e OVERLORD (4500) |
 | Derrota | Um disco voador desce e abduz a Ellie com o raio trator antes do GAME OVER |
 

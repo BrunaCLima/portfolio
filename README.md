@@ -52,9 +52,9 @@ Claude ou Gemini, que viram plano ou questões. → [Detalhes](lousa/)
 
 ![Jump Ellie: a gatinha Ellie e o aviso de evolução dos pepinos alienígenas](jump-ellie/imagens/evolucao.png)
 
-Projeto pessoal: o jogo do dinossauro do Chrome com visual de fliperama à moda do Pac-Man. A gatinha Ellie corre
-pelos telhados fugindo de pepinos alienígenas que evoluem com a pontuação, a erva-de-gato faz o papel da pílula
-de poder e, na derrota, um disco voador a abduz. Pixel art e trilha chiptune feitas no próprio código, e
+Projeto pessoal: o jogo do dinossauro do Chrome com visual de fliperama retrô. A gatinha Ellie corre
+pelos telhados fugindo de pepinos alienígenas que evoluem com a pontuação, a erva-de-gato dá poderes a ela
+e, na derrota, um disco voador a abduz. Pixel art e trilha chiptune feitas no próprio código, e
 instalador para Windows. → [Detalhes](jump-ellie/)
 
 ---
